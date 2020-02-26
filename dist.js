@@ -2970,3 +2970,7 @@
       /******/ });
 });
 //# sourceMappingURL=Cloudinary.umd.js.map
+//# sourceMappingURL=Cloudinary.umd.js.map
+//# sourceMappingURL=Cloudinary.umd.js.map
+//# sourceMappingURL=Cloudinary.umd.js.map
+//# sourceMappingURL=Cloudinary.umd.js.map
