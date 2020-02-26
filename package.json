@@ -1,0 +1,23 @@
+{
+  "name": "bundle-size-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "bundlesize"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrick-tolosa/bundle-size-tester.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrick-tolosa/bundle-size-tester/issues"
+  },
+  "homepage": "https://github.com/patrick-tolosa/bundle-size-tester#readme",
+  "devDependencies": {
+    "bundlesize": "^0.18.0"
+  }
+}
