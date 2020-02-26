@@ -7934,3 +7934,289 @@
                         }
 // CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
                         function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
+// CONCATENATED MODULE: ./src/helpers/findInTransformations.js
+
+                        function findInTransformations(transformations, predicate) {
+                          if (!transformations) {
+                            return undefined;
+                          }
+
+                          return find([].concat(transformations).concat(transformations.transformation || []), predicate);
+                        }
+// CONCATENATED MODULE: ./node_modules/cache-loader/dist/cjs.js??ref--12-0!./node_modules/thread-loader/dist/cjs.js!./node_modules/babel-loader/lib!./node_modules/cache-loader/dist/cjs.js??ref--0-0!./node_modules/vue-loader/lib??vue-loader-options!./src/components/CldVideo/CldVideo.vue?vue&type=script&lang=js&
+                        function CldVideovue_type_script_lang_js_toConsumableArray(arr) { return CldVideovue_type_script_lang_js_arrayWithoutHoles(arr) || CldVideovue_type_script_lang_js_iterableToArray(arr) || CldVideovue_type_script_lang_js_nonIterableSpread(); }
