@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "bundlesize"
+    "test": "bundlewatch"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/patrick-tolosa/bundle-size-tester#readme",
   "devDependencies": {
-    "bundlesize": "^0.18.0"
+    "bundlewatch": "^0.2.5"
+  },
+  "bundlewatch": {
+    "files": [
+      {
+        "path": "dist.js",
+        "maxSize": "100kB"
+      }
+    ]
   }
 }
