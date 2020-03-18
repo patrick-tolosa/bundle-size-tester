@@ -6,6 +6,7 @@
   "scripts": {
     "test": "bundlewatch"
   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/patrick-tolosa/bundle-size-tester.git"
@@ -27,5 +28,8 @@
         "maxSize": "100kB"
       }
     ]
+  },
+  "dependencies": {
+    "cloudinary-vue": "^1.0.0"
   }
 }
